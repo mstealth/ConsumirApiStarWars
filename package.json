@@ -1,0 +1,27 @@
+{
+  "name": "consumirapistarwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstealth/ConsumirApiStarWars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstealth/ConsumirApiStarWars/issues"
+  },
+  "homepage": "https://github.com/mstealth/ConsumirApiStarWars#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
